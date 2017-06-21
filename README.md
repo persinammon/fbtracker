@@ -1,2 +1,1 @@
-# fbtracker
-chrome extension to track the day's facebook activity 
+Writing a chrome extension for Ping interview
