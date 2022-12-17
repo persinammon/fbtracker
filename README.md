@@ -1,4 +1,4 @@
-Writing a chrome extension for Ping interview
+## Chrome Extension 
 
-Storing data with chrome.sync
-Displays time spent on friend's page + their pic + their name
+Saves time spent on Facebook per person profile,
+with person metadata
